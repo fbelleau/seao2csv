@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_MCr3IKDjEeSKh_z_5VWy7Q" name="NORMALISE_FOURNISSEUR" dataPackage="_MCr3IaDjEeSKh_z_5VWy7Q" Server="Localhost 127.0.0.1" FilePath="K:/GRP/DGGRIR/CMN/Exploitation/DATA/REFERENCE/REFINE/FOURNISSEURS_NORM_REFERENCE.xlsx" Encoding="ISO-8859-15" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="FOURNISSEURS_NORM_REFERENCE-xls" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" selectAllSheets="true" sheetList="FOURNISSEURS_NORM_REFERENCE-xls:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_MCr3IaDjEeSKh_z_5VWy7Q" name="default" dataManager="_MCr3IKDjEeSKh_z_5VWy7Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_MCr3IqDjEeSKh_z_5VWy7Q" id="_V_PuQKDgEeSKh_z_5VWy7Q" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MCr3I6DjEeSKh_z_5VWy7Q" label="CLE" length="48" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MCr3JKDjEeSKh_z_5VWy7Q" label="NORM" length="36" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_MCr3JaDjEeSKh_z_5VWy7Q" label="REFINE" length="35" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

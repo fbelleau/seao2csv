@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="pathXML" prompt="pathXML?" promptNeeded="false" type="id_String" value="&quot;/home/s2lq/Documents/SEAO/XML_SEAO/AVIS-2013-2014&quot;"/>
+  <contextParameter comment="" name="pathExcel" prompt="pathExcel?" promptNeeded="false" type="id_String" value="&quot;/home/s2lq/Documents/SEAO/excel/&quot;"/>
+  <contextParameter comment="" name="pathXML2" prompt="pathXML2?" promptNeeded="false" type="id_String" value="&quot;/home/s2lq/Documents/SEAO/XML_SEAO/AVIS&quot;"/>
+  <contextParameter comment="" name="pathXML1" prompt="pathXML1?" promptNeeded="false" type="id_String" value="&quot;/home/s2lq/Documents/SEAO/XML_SEAO/AVIS-2013-2014&quot;"/>
+  <contextParameter comment="" name="path" prompt="path?" promptNeeded="false" type="id_String" value="&quot;/home/s2lq/Documents/SEAO/&quot;"/>
+  <contextParameter comment="" name="path2" prompt="path2?" promptNeeded="false" type="id_String" value="&quot;E:/temp/SEAO/&quot;"/>
+  <contextParameter comment="" name="path1" prompt="path1?" promptNeeded="false" type="id_String" value="&quot;/tmp/SEAO/&quot;"/>
+</talendfile:ContextType>
